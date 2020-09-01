@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mtgat\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mtgat\\.nuget\\packages"
+    ]
+  }
+}
